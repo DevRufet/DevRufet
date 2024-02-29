@@ -18,5 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devrufet&show_icons=true&locale=en" alt="devrufet" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devrufet&" alt="devrufet" /></p>
-![snake gif](https://github.com/DevRufet/DevRufet/blob/output/github-contribution-grid-snake.gif)
+
 
